@@ -1,1 +1,4 @@
 Git Commands
+check whether the directory is required or not
+git init
+git add .
